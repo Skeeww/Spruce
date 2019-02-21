@@ -1,0 +1,9 @@
+{
+    "DatabaseName": {
+        "ip": "127.0.0.1",
+        "port": 3306,
+        "username": "pi",
+        "password": "raspberry",
+        "charset": "utf8"
+    }
+}
