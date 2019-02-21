@@ -1,13 +1,12 @@
-# SPRUCE
+# Spruce - The Simply Lightweight PHP Framework
 
-## The Simplest Lightweight PHP Framework
+In the PHP's world, there are a lot of Frameworks but what the difference between these and Spruce ?
+Spruce has in mind to bring the minimal to the devs and avoid complexity.
 
-------
+> Let's take a tour about they functionalities
 
-### How to use it
-
-1. Download the Git Repo
-
-2. Place the Repo in your Apache's/Nginx's Folder
-
-3. Enjoy !
+- View System with Data Stream
+- Database interactions
+- Simple config file
+- Rest Json Api support
+- Device Info System
